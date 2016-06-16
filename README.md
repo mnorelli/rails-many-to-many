@@ -1,4 +1,4 @@
-# Modeling Relationships
+# Modeling Relationships in Rails
 
 ### Objectives
 *After this lesson, students will be able to:*
